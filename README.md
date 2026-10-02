@@ -2,6 +2,8 @@
 
 A searchable listening room for Grateful Dead concert recordings in the Internet Archive. Search by song or setlist, show date, and minimum community rating. Open a result to browse its artwork, notes, and playable audio files.
 
+Backend is Python; frontend is VueJS. Uses archive.org APIs.
+
 ## Run locally
 
 In one terminal, install and start the FastAPI backend:
